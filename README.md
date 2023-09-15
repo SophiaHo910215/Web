@@ -8,6 +8,6 @@
 ## 課程筆記區
 
 ## 作業連結區
-+ [My Website](https://sophiaho910215.github.io/MyWebsite/)
++ [My Website] (https://sophiaho910215.github.io/MyWebsite/)
 
 ## 專題連結區
