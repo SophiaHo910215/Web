@@ -8,6 +8,7 @@
 ## 課程筆記區
 
 ## 作業連結區
-+ [My Website](https://sophiaho910215.github.io/MyWeb/service.html)
++ [HW1-My Website](https://sophiaho910215.github.io/MyWeb/service.html)
++ [HW2](https://youtu.be/MWQVDIJgZoA)
 
 ## 專題連結區
